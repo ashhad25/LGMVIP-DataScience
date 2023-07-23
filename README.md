@@ -1,2 +1,1 @@
-# LGMVIP-DataScience
-The Description of everything regarding this internship contains in below link:
+<a href="https://letsgrowmore.in/vip/" target="_blank" rel="noreferrer"><img src="![image](https://github.com/ashhad25/LGMVIP-DataScience/assets/81470672/50c9fd89-dd1c-42dc-a31c-4ece3d14c86d)" alt="LGMVIP"></a>

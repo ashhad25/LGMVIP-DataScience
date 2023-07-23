@@ -1,1 +1,1 @@
-<a href="https://letsgrowmore.in/vip/" target="_blank" rel="noreferrer"><img src="![image](https://github.com/ashhad25/LGMVIP-DataScience/assets/81470672/50c9fd89-dd1c-42dc-a31c-4ece3d14c86d)" alt="LGMVIP"></a>
+<a href="https://letsgrowmore.in/vip/" target="_blank" rel="noreferrer"><img src="https://media.licdn.com/dms/image/D4D12AQG8QkU-Y_k-4g/article-cover_image-shrink_600_2000/0/1671641584562?e=2147483647&v=beta&t=r7VhvOqeeLZmE1byttiSje3DfcMQVtmwDdBgsKrBA_c" alt="LGMVIP"></a>
